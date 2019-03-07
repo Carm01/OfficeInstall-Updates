@@ -2,7 +2,6 @@
 AutoIT Script processes office updates from *.msp files pulled with vbs
 
 - How to capture office updates:
-
  - Run Windows updates to update office
 Run the CollectUpdates.vbs
 Once done a window will open. That Folder is located in your users temp file called "updates"
